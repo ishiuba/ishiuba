@@ -5,8 +5,6 @@
 - 😄 Pronouns: it
 
 <div>
-  <a ref="https://github.com/iamshiuba">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=iamshiuba&show_icons=true&include_all_commits=true&count_private=true&theme=dark"/>
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iamshiuba&layout=donut&theme=dark"/>
 </div>
 <div>
