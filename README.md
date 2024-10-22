@@ -1,8 +1,7 @@
 ### E ai? (What's up?)
 
 - 👀 I’m interested in games and animes
-- 🌱 I’m currently learning JS, HTML, CSS & Python
-- 😄 Pronouns: it
+- 🌱 I’m currently looking forward to learn something new
 
 <div>
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iamshiuba&layout=donut&theme=dark"/>
