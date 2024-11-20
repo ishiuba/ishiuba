@@ -1,6 +1,6 @@
 ### E ai? (What's up?)
 
-- 👀 I’m interested in games and animes
+- 👀 I’m interested in IT and animes
 - 🌱 I’m currently looking forward to learn something new
 
 <div>
