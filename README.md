@@ -1,4 +1,4 @@
-# Hi there, I'm Shiuba! 👋
+# E ai? I'm Shiuba! 👋
 
 ![Profile Views](https://komarev.com/ghpvc/?username=iamshiuba&color=blue)
 
