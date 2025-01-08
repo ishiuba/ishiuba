@@ -1,7 +1,4 @@
-# E ai? I'm Shiuba! 👋
-
-![Profile Views](https://komarev.com/ghpvc/?username=iamshiuba&color=blue)
-
+# E ai? I'm SHIUBA! 👋
 ## About Me
 
 I'm a passionate software developer with a keen interest in open-source projects, web development, and data science. I love to explore new technologies and continuously improve my skills.
