@@ -3,7 +3,7 @@
 
 I'm a passionate software developer with a keen interest in open-source projects, web development, and data science. I love to explore new technologies and continuously improve my skills.
 
-- 🌱 I’m currently learning **Python**
+- 🌱 I’m currently learning **JS**
 - 💬 Ask me about **Python, JavaScript, and Web Development**
 - 📫 How to reach me: **https://t.me/contactishiubagithub**
 
