@@ -26,10 +26,10 @@ I'm a passionate software developer with a keen interest in open-source projects
 
 Here are some of my notable projects:
 
-- [**programacao_em_python**](https://github.com/iamshiuba/programacao_em_python): A course that teaches you how programming works and how to build a Django framework web project.
-- [**guide_html_css_js_py**](https://github.com/iamshiuba/guide_html_css_js_py): A guide that extends the PEP course.
-- [**iamshiubadj**](https://github.com/iamshiuba/iamshiubadj): My first project using the Django framework.
-- [**iamshiuba**](https://github.com/iamshiuba/iamshiuba): My first flask app
+- [**programacao_em_python**](https://github.com/ishiuba/programacao_em_python): A course that teaches you how programming works and how to build a Django framework web project.
+- [**guide_html_css_js_py**](https://github.com/ishiuba/guide_html_css_js_py): A guide that extends the PEP course.
+- [**iamshiubadj**](https://github.com/ishiuba/iamshiubadj): My first project using the Django framework.
+- [**iamshiuba**](https://github.com/ishiuba/iamshiuba): My first flask app
 
 ## 📝 Blog Posts
 
