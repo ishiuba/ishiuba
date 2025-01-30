@@ -20,7 +20,7 @@ I'm a passionate software developer with a keen interest in open-source projects
 
 ## 📈 GitHub Stats
 
-![Shiuba's GitHub stats](https://github-readme-stats.vercel.app/api?username=iamshiuba&show_icons=true&theme=radical)
+![Shiuba's GitHub stats](https://github-readme-stats.vercel.app/api?username=ishiuba&show_icons=true&theme=radical)
 
 ## 🚀 Projects
 
