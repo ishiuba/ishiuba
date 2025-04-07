@@ -28,9 +28,9 @@ Uma pessoa interessada em desenvolvimento de software e ou web. Aberto a ganhar 
 
 Alguns projetos meus:
 
-- [**programacao_em_python**](https://github.com/ishiuba/programacao_em_python): A course that teaches you how programming works and how to build a Django framework web project.
-- [**guide_html_css_js_py**](https://github.com/ishiuba/guide_html_css_js_py): A guide that extends the PEP course.
-- [**isSTAR-P**](https://github.com/ishiuba/isSTAR-P): All-in-one repository containing all versions of iamshiuba's web project.
+- [**programacao_em_python**](https://github.com/ishiuba/programacao_em_python): Curso que lhe introduzirá ao desenvolvimento web.
+- [**guide_html_css_js_py**](https://github.com/ishiuba/guide_html_css_js_py): Um guia que extende o curso PEP.
+- [**isSTAR-P**](https://github.com/ishiuba/isSTAR-P):Repositório público do projeto web iamshiuba contendo todas as versões.
 
 ## 📫 Contatos
 
