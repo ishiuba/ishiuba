@@ -30,7 +30,6 @@ Alguns projetos meus:
 
 - [**programacao_em_python**](https://github.com/ishiuba/programacao_em_python): Curso que lhe introduzirá ao desenvolvimento web.
 - [**guide_html_css_js_py**](https://github.com/ishiuba/guide_html_css_js_py): Um guia que extende o curso PEP.
-- [**isSTAR-P**](https://github.com/ishiuba/isSTAR-P):Repositório público do projeto web iamshiuba contendo todas as versões.
 
 ## 📫 Contatos
 
