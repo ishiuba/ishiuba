@@ -20,9 +20,10 @@ Uma pessoa interessada em desenvolvimento de software e ou web. Aberto a ganhar 
 ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
 
-## 📈 Estatísticas
+## 📈 Estatísticas e Linguagens
 
 ![Shiuba's GitHub stats](https://github-readme-stats.vercel.app/api?username=ishiuba&show_icons=true&theme=radical)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ishiuba&theme=radical)]
 
 ## 🚀 Projetos
 
